@@ -69,13 +69,13 @@ Hardware we will use in this workshop:
 -DHT22 sensor from Adafruit with 10ohm resistor
 -3 connecting wires
 
-If you are not attending one of our live sessions where we have recieved sponsorship for hardware you can find these items to purchase online, here is a list of places you may find [them](hardware-shopping-list.md)
+If you are not attending one of our live sessions where we have received sponsorship for hardware you can find these items to purchase online.
 
-For setting up the raspberry Pi follow the instructions in [0_pi-setup](pi-setup/initial-setup.md)
+For setting up the raspberry Pi follow the instructions in [0_pi-setup](0_pi-setup/initial-setup.md)
 
 ### Setting up a sensor & collecting data
 
-For setting up the sensor follow the instructions in [1_sensor-setup](sensor-setup/humidity-sensor-setup.md)
+For setting up the sensor follow the instructions in [1_sensor-setup](1_sensor-setup/humidity-sensor-setup.md)
 
 ### Storing Data with InduxDB
 
